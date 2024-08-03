@@ -1,0 +1,21 @@
+.MdiExchange i {
+    font-size: 26px; /* Adjust the size as needed */
+    color: black; /* Ensure the icon color is visible */
+    padding-top: 8px;
+    padding-left: 5px;
+}
+
+input {
+    font-size: 42px; /* Match the  font size of the text */
+    font-family: 'Josefin Sans', sans-serif; /* Match the font family */
+    font-weight: 600; /* Match the font weight */
+    color: rgba(1.43, 0.66, 39.31, 0.93); /* Match the text color */
+    border: none; /* Remove the default border */
+    background: transparent; /* Remove default background */
+    text-align: center; /* Center the text inside */
+    width: 100%; /* Full width but constrained by max-width */
+    max-width: 200px; /* Set a maximum width */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    border-radius: 0; /* Remove border radius to make it square */
+    outline: none; /* Remove the default outline */
+}
